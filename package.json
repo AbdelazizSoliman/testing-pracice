@@ -1,0 +1,22 @@
+{
+  "name": "testing-pracice",
+  "version": "1.0.0",
+  "description": "for Unit Testing Course",
+  "main": "stringLengh.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdelazizSoliman/testing-pracice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdelazizSoliman/testing-pracice/issues"
+  },
+  "homepage": "https://github.com/AbdelazizSoliman/testing-pracice#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
